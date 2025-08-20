@@ -1,0 +1,3 @@
+*.exe      # ignore all Windows executables
+*.o        # ignore object files
+*.out      # ignore Linux compiled output
